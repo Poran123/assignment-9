@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "event_name": "Tech Summit 2024",
+        "event_date": "2024-05-20",
+        "location": "New York City, NY",
+        "organizer": "Tech Events Inc.",
+        "image_url": "https://i.ibb.co/dM131WP/tech.jpg"
+    },
+    {
+        "id": 2,
+        "event_name": "Johnson-Smith Wedding",
+        "event_date": "2024-09-15",
+        "location": "Aspen, Colorado",
+        "organizer": "Dream Weddings LLC",
+        "image_url": "https://i.ibb.co/2ZT1wNR/weeding.jpg"
+    },
+    {
+        "id": 3,
+        "event_name": "Summer Jam 2024",
+        "event_date": "2024-07-08",
+        "location": "Miami, FL",
+        "organizer": "Music Productions",
+        "image_url": "https://i.ibb.co/09Jgzst/summer.jpg"
+    },
+    {
+        "id": 4,
+        "event_name": "Professional Development Seminar",
+        "event_date": "2024-03-10",
+        "location": "Chicago, IL",
+        "organizer": "ABC Training Institute",
+        "image_url": "https://i.ibb.co/dPssWh6/development.jpg"
+    },
+    {
+        "id": 5,
+        "event_name": "Hope Gala 2024",
+        "event_date": "2024-12-05",
+        "location": "Los Angeles, CA",
+        "organizer": "Hope Foundation",
+        "image_url": "https://i.ibb.co/X4BGPHK/hop-gala.jpg"
+    },
+    {
+        "id": 6,
+        "event_name": "Championship Tennis Tournament",
+        "event_date": "2024-06-25",
+        "location": "Wimbledon, London",
+        "organizer": "Grand Slam Sports",
+        "image_url": "https://i.ibb.co/nBvSmb2/tenis.jpg"
+    }
+]
